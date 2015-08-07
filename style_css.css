@@ -1,0 +1,9 @@
+.text
+{
+	border:1px #CCCCCC solid; vertical-align:middle; font:12px/15px Arial, Helvetica, sans-serif;
+	background:none;
+	height:25px;
+	-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-khtml-border-radius: 5px;
+}
